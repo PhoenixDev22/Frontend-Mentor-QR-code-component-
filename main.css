@@ -131,8 +131,6 @@ body{
 }
 /* start styling thhe attribution  */
 .attribution{
-    position: absolute;
-    bottom: 0;
     margin: 1.5rem 0;
     text-align: center;
 }
