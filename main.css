@@ -81,7 +81,6 @@ body{
 }
 .card:hover .face{
     transform: rotateY(180deg);
-    transition: all 1s ease-in-out;
 }
 .frontFlipped{
     transform: rotateY(180deg);
@@ -132,7 +131,10 @@ body{
 }
 /* start styling thhe attribution  */
 .attribution{
+    position: absolute;
+    bottom: 0;
     margin: 1.5rem 0;
+    text-align: center;
 }
 .attribution a{
     color: #2c7dfa;
