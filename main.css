@@ -61,6 +61,7 @@ body{
 .img{
     width: 100%;
     min-height: 18rem;
+    display: block;
     border-radius: 0.625rem;
 }
 
